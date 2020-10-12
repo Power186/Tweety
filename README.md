@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="twitter2.gif" width=250><br>
 
 
 # Project 3 - Twitter
@@ -50,5 +50,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src="https://github.com/Power186/Tweety/blob/master/twitter.gif" width=250><br>
+<img src="twitter.gif" width=250><br>
 
