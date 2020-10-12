@@ -5,7 +5,7 @@ target 'Twitter' do
   # Comment the next line if you're not using Swift and don't want to use dynamic frameworks 
   # Pods for Twitter
   use_frameworks!
-  pod 'AFNetworking'
+  pod 'AFNetworking', '~> 3.0'
   pod 'BDBOAuth1Manager'
-  pod 'AlamofireImage'
+ pod 'AlamofireImage', '~> 4.1'
 end
